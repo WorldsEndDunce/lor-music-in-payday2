@@ -1,0 +1,52 @@
+<table name="LoR Music">
+    <Localization directory="loc" default="en.txt"/>
+    <MenuMusic id="LoR" source="sounds/menu.ogg"/>
+    <HeistMusic id="malkuth" directory="sounds">
+        <event name="setup" source="stealthm.ogg"/>
+        <event name="anticipation" source="buildupm.ogg"/>
+        <event name="assault" source="assaultm.ogg"/>
+        <event name="control" source="controlm.ogg"/>
+    </HeistMusic>
+    <HeistMusic id="roland" directory="sounds">
+        <event name="setup" source="stealthr.ogg"/>
+        <event name="anticipation" source="buildupr.ogg"/>
+        <event name="assault" source="assaultr.ogg"/>
+        <event name="control" source="controlr.ogg"/>
+    </HeistMusic>
+    <HeistMusic id="gebura" directory="sounds">
+        <event name="setup" source="stealthg.ogg"/>
+        <event name="anticipation" source="buildupg.ogg"/>
+        <event name="assault" source="assaultg.ogg"/>
+        <event name="control" source="controlg.ogg"/>
+    </HeistMusic>
+    <HeistMusic id="yesod" directory="sounds">
+        <event name="setup" source="stealthy.ogg"/>
+        <event name="anticipation" source="buildupy.ogg"/>
+        <event name="assault" source="assaulty.ogg"/>
+        <event name="control" source="controly.ogg"/>
+    </HeistMusic>
+    <HeistMusic id="binah" directory="sounds">
+        <event name="setup" source="stealthb.ogg"/>
+        <event name="anticipation" source="buildupb.ogg"/>
+        <event name="assault" source="assaultb.ogg"/>
+        <event name="control" source="controlb.ogg"/>
+    </HeistMusic>
+    <HeistMusic id="hokma" directory="sounds">
+        <event name="setup" source="stealthh.ogg"/>
+        <event name="anticipation" source="builduph.ogg"/>
+        <event name="assault" source="assaulth.ogg"/>
+        <event name="control" source="controlh.ogg"/>
+    </HeistMusic>
+      <HeistMusic id="tiph" directory="sounds">
+        <event name="setup" source="stealtht.ogg"/>
+        <event name="anticipation" source="buildupt.ogg"/>
+        <event name="assault" source="assaultt.ogg"/>
+        <event name="control" source="controlt.ogg"/>
+    </HeistMusic>
+      <HeistMusic id="nutsack" directory="sounds">
+        <event name="setup" source="stealthn.ogg"/>
+        <event name="anticipation" source="buildupn.ogg"/>
+        <event name="assault" source="assaultn.ogg"/>
+        <event name="control" source="controln.ogg"/>
+    </HeistMusic>
+</table>

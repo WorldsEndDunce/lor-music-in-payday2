@@ -1,0 +1,28 @@
+{
+"menu_jukebox_LoR" : "LoR Intro",
+    "menu_jukebox_screen_LoR" : "LoR Intro"
+    
+"menu_jukebox_roland" : "Roland Battle",
+    "menu_jukebox_screen_roland" : "Roland Battle"
+
+    "menu_jukebox_malkuth" : "Malkuth Battle",
+    "menu_jukebox_screen_malkuth" : "Malkuth Battle"
+
+    "menu_jukebox_gebura" : "Gebura Battle",
+    "menu_jukebox_screen_gebura" : "Gebura Battle"
+
+    "menu_jukebox_yesod" : "Yesod Battle",
+    "menu_jukebox_screen_yesod" : "Yesod Battle"
+
+    "menu_jukebox_binah" : "Binah Battle",
+    "menu_jukebox_screen_binah" : "Binah Battle"
+
+"menu_jukebox_hokma" : "Hokma Battle",
+    "menu_jukebox_screen_hokma" : "Hokma Battle"
+
+"menu_jukebox_tiph" : "Tiphereth Battle",
+    "menu_jukebox_screen_tiph" : "Tiphereth Battle"
+
+"menu_jukebox_nutsack" : "Nutsack Battle",
+    "menu_jukebox_screen_nutsack" : "Nutsack Battle"
+}
